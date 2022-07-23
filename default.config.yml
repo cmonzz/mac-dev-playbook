@@ -62,6 +62,16 @@ homebrew_installed_packages:
   - wget
   - wrk
   - zsh-history-substring-search
+  - iproute2mac
+  - tree
+  - telnet
+  - qpdf
+  - npm
+  - zbar
+  - bluetoothconnector
+  - switchaudio-osx
+  - iterm2
+
 
 homebrew_taps:
   - homebrew/core
@@ -73,20 +83,28 @@ homebrew_cask_apps:
   - docker
   - dropbox
   - firefox
-  - google-chrome
   - handbrake
   - licecap
   - sequel-ace
   - slack
   - sublime-text
-  - transmit
-  - vagrant
   - alfred
   - karabiner-elements
   - bartender
   - little-snitch
-  - sublime-text
   - monitorcontrol
+  - qlstephen
+  - google-chrome
+  - omnigraffle
+  - whatsapp
+  - transmission
+  - xquartz
+  - wireshark
+  - karabiner-elements
+  - zoom
+  - teamviewer
+  - anydesk
+
 
 
 # See `geerlingguy.mas` role documentation for usage instructions.
