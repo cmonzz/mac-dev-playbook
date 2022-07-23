@@ -81,6 +81,13 @@ homebrew_cask_apps:
   - sublime-text
   - transmit
   - vagrant
+  - alfred
+  - karabiner-elements
+  - bartender
+  - little-snitch
+  - sublime-text
+  - monitorcontrol
+
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
