@@ -70,7 +70,6 @@ homebrew_installed_packages:
   - zbar
   - bluetoothconnector
   - switchaudio-osx
-  - iterm2
 
 
 homebrew_taps:
@@ -81,7 +80,7 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - chromedriver
   - docker
-  - dropbox
+  #- dropbox
   - firefox
   - handbrake
   - licecap
@@ -99,12 +98,25 @@ homebrew_cask_apps:
   - whatsapp
   - transmission
   - xquartz
-  - wireshark
+  #- wireshark
   - karabiner-elements
   - zoom
   - teamviewer
   - anydesk
-
+  - notion
+  - min
+  - nextcloud
+  - numi
+  - syncthing
+  - unetbootin
+  - webcatalog
+  - drawio
+  - bitwarden
+  - balenaEtcher
+  - iterm2
+  - 1password
+  - appcleaner
+  - evernote
 
 
 # See `geerlingguy.mas` role documentation for usage instructions.
